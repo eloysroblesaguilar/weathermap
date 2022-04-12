@@ -1,0 +1,12 @@
+.background-dark {
+    background-color: #454545;
+    border: 1px #343332 solid;
+}
+
+.background-light-head {
+    background-color: #879297;
+}
+
+*{
+    font-family: 'Noto Sans', sans-serif;
+}
